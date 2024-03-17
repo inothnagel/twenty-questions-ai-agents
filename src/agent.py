@@ -39,7 +39,7 @@ class Agent(BaseModel):
 
         conversation_history = [{"role": "system", "content": self.system_prompt}]
         for message in messages:
-            role = "assistant" if message.agent == self else "user"
+            role = "assistant" if message.agent is self else "user"
             conversation_history.append({"role": role, "content": message.content})
         return conversation_history
 
