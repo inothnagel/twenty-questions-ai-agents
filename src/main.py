@@ -1,19 +1,22 @@
+from itertools import cycle
+
 from src.agent import Agent
 from src.message import Message
 
 
 def main() -> None:
-    asker = Agent.load_from_yaml("asker.yml")
+    knower = Agent.load_from_yaml("knower.yml")
     guesser = Agent.load_from_yaml("guesser.yml")
-    agents = [guesser, asker]
+    agents = [knower, guesser]
 
-    asker.set_correct_answer(
+    knower.set_correct_answer(
         input("What thing would you like the Asker to be thinking of?")
     )
 
     messages = []
-    for i in range(1, 40):
-        agent = agents[i % 2]
+    for i, agent in enumerate(cycle(agents)):
+        if i >= 40:
+            break
         response = agent.respond(messages)
         messages.append(Message(agent, response))
         print(f"{agent.name}: {response}")

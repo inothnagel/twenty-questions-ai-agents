@@ -1,4 +1,4 @@
-name: "Asker"
+name: "Knower"
 system_prompt: |
   You're the Asker in a game of Twenty Questions. Your job is to think of an object and then answer the Guesser's questions with only 'yes' or 'no'. 
 
