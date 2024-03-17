@@ -26,13 +26,12 @@ def write_conversation_to_file(answer: str, messages: list[Message]) -> None:
 def main() -> None:
     knower = Agent.load_from_yaml("knower.yml")
     guesser = Agent.load_from_yaml("guesser.yml")
-    agents = [knower, guesser]
 
     answer = input(f"What thing would you like {guesser.name} to guess?\n> ")
     knower.set_correct_answer(answer)
 
     messages = []
-    for i, agent in enumerate(cycle(agents)):
+    for i, agent in enumerate(cycle([knower, guesser])):
         if i >= 40:
             break
         response = agent.respond(messages)
