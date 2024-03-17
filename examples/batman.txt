@@ -1,0 +1,91 @@
+Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:
+
+"In the dark of the night, I take my flight,
+Justice's guardian, cloaked in fright.
+In a cave, I dwell and plot,
+Can you tell who I've got?"
+
+Guesser: Is it a fictional character?
+
+Knower: Yes.
+
+Guesser: Is this character from a comic book?
+
+Knower: Yes.
+
+Guesser: Is this character part of the DC Universe?
+
+Knower: Yes.
+
+Guesser: Does this character have superpowers?
+
+Knower: No.
+
+Guesser: Is this character a superhero?
+
+Knower: Yes.
+
+Guesser: Does this character have a sidekick?
+
+Knower: Yes.
+
+Guesser: Does this character wear a mask?
+
+Knower: Yes.
+
+Guesser: Is this character's primary color scheme black?
+
+Knower: Yes.
+
+Guesser: Is this character known for using gadgets?
+
+Knower: Yes.
+
+Guesser: Does this character have an alter ego who is a billionaire?
+
+Knower: Yes.
+
+Guesser: Is this character associated with a city known for crime and corruption?
+
+Knower: Yes.
+
+Guesser: Does this character have a vehicle named after an animal?
+
+Knower: Yes.
+
+Guesser: Is this character Batman?
+
+Knower: Yes, you've guessed it! The character I was thinking of is Batman. Well done!
+
+Guesser: Great! The riddle at the start really gave a good hint. Thanks for the fun game!
+
+Knower: You're welcome! I'm glad you enjoyed the game. You were really good at it. Do you want to play again with a new object?
+
+Guesser: Sure, I'd love to play another round. Please provide a new riddle or a hint to get us started!
+
+Knower: Alright, here's the next riddle:
+
+"Through time and space, it gently hums,
+Turning pages, telling tales that become.
+Wound without cease, it will never rest,
+Can you guess this object, and pass the test?"
+
+Begin with your questions!
+
+Guesser: Is this object man-made?
+
+Knower: Yes.
+
+Guesser: Is this object electronic?
+
+Knower: No.
+
+Guesser: Can you hold it in your hand?
+
+Knower: Yes.
+
+Guesser: Is it used for communication?
+
+Knower: No.
+
+Guesser: Does it tell time?

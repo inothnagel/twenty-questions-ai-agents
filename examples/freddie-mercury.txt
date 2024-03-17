@@ -1,19 +1,4 @@
-# Twenty Questions AI Agents
-
-An experiment with two LLM agents playing Twenty Questions against each other.
-
-Each agent has their own secret system instructions that aren't shared with the other.
-
-The guessing agent doesn't know what the answer is, but will try to guess it by asking questions.
-
-When using a strong model like GPT-4 it often succeeds in finding the answer.
-
-## Example Game Run:
-
-There are more examples located in the `examples` directory.
-
-```
-What thing would you like the Asker to be thinking of?
+What thing would you like the Knower to be thinking of?
 freddie mercury
 
 Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:"I was the lead, with a voice of gold,
@@ -70,4 +55,3 @@ Guesser: Is this person Freddie Mercury?
 Knower: Yes, well done! It is indeed Freddie Mercury.Guesser: Thank you! It was an interesting game and the riddle was a great clue. Freddie Mercury surely is a music icon with a courageous story.
 
 Knower: I'm glad you enjoyed the game and I agree, Freddie Mercury is indeed an icon. Would you like to play again or is there something else you'd like to do?
-```

@@ -1,0 +1,85 @@
+What thing would you like Knower to be thinking of?
+la chupacabra
+
+Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:
+
+"In the shadows, silent, it creeps,
+When the world is asleep, it leaps.
+Timeless tales of it cause a fright,
+Known to howl under the moonlight."
+
+Guesser: Is it an animal?
+
+Knower: Yes.
+
+Guesser: Is it a mammal?
+
+Knower: Yes.
+
+Guesser: Does it live in North America?
+
+Knower: Yes.
+
+Guesser: Is it a carnivore?
+
+Knower: Yes.
+
+Guesser: Is it often associated with myths and legends?
+
+Knower: Yes.
+
+Guesser: Does it howl?
+
+Knower: Yes.
+
+Guesser: Is it a wolf?
+
+Knower: No.
+
+Guesser: Is it a domestic animal?
+
+Knower: No.
+
+Guesser: Is it a solitary animal?
+
+Knower: Yes.
+
+Guesser: Does it primarily hunt at night?
+
+Knower: Yes.
+
+Guesser: Is it a large animal - bigger than a human?
+
+Knower: No.
+
+Guesser: Is it a coyote?
+
+Knower: No.
+
+Guesser: This is a little difficult. Can I have a hint?
+
+Knower: I'll give you a hint: It's not real, but tales of this creature have spooked many people. Its name hails from the Spanish language.
+
+Guesser: Is it the Chupacabra?
+
+Knower: Yes.
+
+Guesser: Great! Thank you for the riddle and the hints. The Chupacabra, a creature from folklore and the subject of many scary tales!
+
+Knower: Yes, you got it! Well done on figuring out the Chupacabra. It's indeed a creature of folklore, said to inhabit parts of the Americas, with a name that translates to "goat-sucker". It was a fun game of Twenty Questions!
+
+Guesser: Thank you! I enjoyed playing the game and trying to guess the mystery object, especially with such an intriguing riddle. Looking forward to next time!
+
+Knower: I'm glad you enjoyed the game! I look forward to playing again with you in the future. Goodbye and have a great day!
+
+Guesser: Goodbye! Have a wonderful day as well.
+
+Knower: Thank you! Goodbye!
+
+Guesser: You're welcome! Goodbye!
+
+Knower: Goodbye!
+
+Guesser: Goodbye! Have a nice day!
+
+Knower: Goodbye! You too, have a fantastic day!

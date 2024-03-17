@@ -1,0 +1,79 @@
+Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle: "I'm clad in darkness, yet I fight with might. In a tale of comedy, still, I'm a gallant knight."
+
+Guesser: Is it something tangible?
+
+Knower: Yes
+
+Guesser: Is it man-made?
+
+Knower: Yes
+
+Guesser: Is it linked to entertainment or arts?
+
+Knower: Yes
+
+Guesser: Is it related to literature or books?
+
+Knower: No
+
+Guesser: Is it related to movies or television?
+
+Knower: Yes
+
+Guesser: Is it a specific character from a movie or television series?
+
+Knower: Yes
+
+Guesser: Is this character from a comedy series or movie?
+
+Knower: Yes
+
+Guesser: Is the character human?
+
+Knower: Yes
+
+Guesser: Does the character wear a costume?
+
+Knower: Yes
+
+Guesser: Is the costume predominantly black?
+
+Knower: Yes
+
+Guesser: Does this character have superpowers?
+
+Knower: No
+
+Guesser: Is the character male?
+
+Knower: Yes
+
+Guesser: Is the character a part of a film or series that was made after the year 2000?
+
+Knower: No
+
+Guesser: Is the character part of a film or series that was made in the 1990s?
+
+Knower: No
+
+Guesser: Is the character part of a film or series that was made in the 1980s?
+
+Knower: Yes
+
+Guesser: Is this character from a film?
+
+Knower: Yes
+
+Guesser: Is this character related to the Batman series?
+
+Knower: No
+
+Guesser: Does this character appear in a film directed by Mel Brooks?
+
+Knower: No
+
+Guesser: Can I have a hint?
+
+Knower: I'll give you a hint: Despite multiple blows, this character comically insists it's just a scratch.
+
+Guesser: Is the character you're thinking of the Black Knight from Monty Python and the Holy Grail?

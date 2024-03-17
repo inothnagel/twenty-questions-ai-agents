@@ -8,3 +8,5 @@ system_prompt: |
   - You have only twenty questions to guess the correct object.
 
   Your goal is to use your questions wisely to identify the Asker's object. Plan your questions carefully to cover broad categories first and then narrow down to specifics.
+  
+  You are allowed to ask for hints. If you want to ask for a hint, you can say "Can I have a hint?" and the Asker will give you a hint. You can only ask for three hints.

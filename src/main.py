@@ -1,7 +1,26 @@
+import os
 from itertools import cycle
 
 from src.agent import Agent
 from src.message import Message
+
+
+def format_title(title: str) -> str:
+    return title.lower().replace(" ", "-")
+
+
+def write_conversation_to_file(answer: str, messages: list[Message]) -> None:
+    title = format_title(answer)
+    root_path = "./examples"
+
+    if not os.path.exists(root_path):
+        os.makedirs(root_path)
+
+    filename = os.path.join(root_path, f"{title}.txt")
+
+    with open(filename, "w") as file:
+        for message in messages:
+            file.write(f"{message.agent.name}: {message.content}\n\n")
 
 
 def main() -> None:
@@ -9,9 +28,8 @@ def main() -> None:
     guesser = Agent.load_from_yaml("guesser.yml")
     agents = [knower, guesser]
 
-    knower.set_correct_answer(
-        input("What thing would you like the Asker to be thinking of?")
-    )
+    answer = input(f"What thing would you like {guesser.name} to guess?\n")
+    knower.set_correct_answer(answer)
 
     messages = []
     for i, agent in enumerate(cycle(agents)):
@@ -19,7 +37,9 @@ def main() -> None:
             break
         response = agent.respond(messages)
         messages.append(Message(agent, response))
-        print(f"{agent.name}: {response}")
+        print(f"\n{agent.name}: {response}")
+
+    write_conversation_to_file(answer, messages)
 
 
 if __name__ == "__main__":

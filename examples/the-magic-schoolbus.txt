@@ -1,0 +1,87 @@
+What thing would you like Knower to be thinking of?
+the magic schoolbus
+
+Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:
+
+"On this fantastical ride, classroom rules slide.
+Fear not where you'll wind up, for it's an educational trip.
+No highway, sea, or sky is too wide,
+All aboard, let's give logic the slip."
+
+Guesser: Is it something that could be found in a classroom?
+
+Knower: Yes
+
+Guesser: Is it a tangible object?
+
+Knower: Yes
+
+Guesser: Is this object related to literature or books?
+
+Knower: Yes
+
+Guesser: Is it a specific book?
+
+Knower: Yes
+
+Guesser: Is this book typically read by children?
+
+Knower: Yes
+
+Guesser: Does the book contain illustrations?
+
+Knower: Yes
+
+Guesser: Is the book part of a series?
+
+Knower: Yes
+
+Guesser: Is the setting of this book in a magical or unordinary world?
+
+Knower: Yes
+
+Guesser: Is the main character of this book a child?
+
+Knower: No
+
+Guesser: Is the author of the book American?
+
+Knower: Yes
+
+Guesser: Is the main character of this book a fictional creature or animal?
+
+Knower: No
+
+Guesser: Is the book written by Dr. Seuss?
+
+Knower: No
+
+Guesser: Is the book published before the 1960s?
+
+Knower: No
+
+Guesser: Is the book primarily educational in nature, teaching kids about different subjects or concepts?
+
+Knower: Yes
+
+Guesser: Is the book associated with a TV show or has it been adapted into a TV show?
+
+Knower: Yes
+
+Guesser: Is the book "The Magic School Bus"?
+
+Knower: Yes
+
+Guesser: So, it's definitely "The Magic School Bus". This series expands children's imaginations and knowledge by transforming an ordinary school bus into a magical vehicle that can go anywhere and do anything, which ties perfectly with your riddle!
+
+Knower: Yes, spot on! It is indeed "The Magic School Bus". Great job on the series of questions!
+
+Guesser: Thank you! I'm so glad I could guess it right. It was an interesting and challenging task, as the Magic School Bus is a unique blend of fantasy and education. Thank you for the fun game!
+
+Knower: You're very welcome! You did an excellent job. I'm glad you enjoyed the game. Thank you for playing and keep up the great guessing skills!
+
+Guesser: Thank you for the kind words! I'll surely keep honing my guessing skills for our future games. I had a great time. Hope to play another round of Twenty Questions with you soon!
+
+Knower: That sounds like a plan! I would be happy to play another round of Twenty Questions with you anytime. Keep guessing and have a great day!
+
+Guesser: Excellent! I'm looking forward to our next game. Thank you for the fun time and have a wonderful day too!
