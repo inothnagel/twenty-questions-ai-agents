@@ -22,11 +22,10 @@ class Agent(BaseModel):
     system_prompt: str
 
     def respond(self, messages: list[Message]) -> str:
-        prompt = {
-            "model": "gpt-4",
-            "messages": self.subjective_conversation_history(messages),
-        }
-        response = client.chat.completions.create(**prompt)
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=self.subjective_conversation_history(messages),
+        )
         return response.choices[0].message.content
 
     def subjective_conversation_history(self, messages: list[Message]) -> list[dict]:
