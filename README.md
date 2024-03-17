@@ -13,61 +13,83 @@ When using a strong model like GPT-4 it often succeeds in finding the answer.
 There are more examples located in the `examples` directory.
 
 ```
-What thing would you like the Asker to be thinking of?
-freddie mercury
+What thing would you like Knower to be thinking of?
+the magic schoolbus
 
-Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:"I was the lead, with a voice of gold,
-My story is tragic, yet courageously bold.
-An icon in music, my style was unique,
-To be yourself, is the truth that I teach."
+Knower: I'm thinking of something. Ask me questions to figure out what it is. Here is a riddle:
 
-Guesser: Is the object you're thinking of a person?
+"On this fantastical ride, classroom rules slide.
+Fear not where you'll wind up, for it's an educational trip.
+No highway, sea, or sky is too wide,
+All aboard, let's give logic the slip."
 
-Knower: Yes.
+Guesser: Is it something that could be found in a classroom?
 
-Guesser: Is this person associated with the field of music?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is it a tangible object?
 
-Guesser: Is this person a male?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is this object related to literature or books?
 
-Guesser: Did this person lead a music band?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is it a specific book?
 
-Guesser: Is this person no longer living?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is this book typically read by children?
 
-Guesser: Did this person live in the 20th century?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Does the book contain illustrations?
 
-Guesser: Was this person's band a rock band?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is the book part of a series?
 
-Guesser: Is this person of British origin?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is the setting of this book in a magical or unordinary world?
 
-Guesser: Did this person's band become popular in the 1970s?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is the main character of this book a child?
 
-Guesser: Is this person known for an eccentric and flamboyant stage presence?
+Knower: No
 
-Knower: Yes.
+Guesser: Is the author of the book American?
 
-Guesser: Did this person die because of an AIDS-related illness?
+Knower: Yes
 
-Knower: Yes.
+Guesser: Is the main character of this book a fictional creature or animal?
 
-Guesser: Is this person Freddie Mercury?
+Knower: No
 
-Knower: Yes, well done! It is indeed Freddie Mercury.Guesser: Thank you! It was an interesting game and the riddle was a great clue. Freddie Mercury surely is a music icon with a courageous story.
+Guesser: Is the book written by Dr. Seuss?
 
-Knower: I'm glad you enjoyed the game and I agree, Freddie Mercury is indeed an icon. Would you like to play again or is there something else you'd like to do?
+Knower: No
+
+Guesser: Is the book published before the 1960s?
+
+Knower: No
+
+Guesser: Is the book primarily educational in nature, teaching kids about different subjects or concepts?
+
+Knower: Yes
+
+Guesser: Is the book associated with a TV show or has it been adapted into a TV show?
+
+Knower: Yes
+
+Guesser: Is the book "The Magic School Bus"?
+
+Knower: Yes
+
+Guesser: So, it's definitely "The Magic School Bus". This series expands children's imaginations and knowledge by transforming an ordinary school bus into a magical vehicle that can go anywhere and do anything, which ties perfectly with your riddle!
+
+Knower: Yes, spot on! It is indeed "The Magic School Bus". Great job on the series of questions!
+
+Guesser: Thank you! I'm so glad I could guess it right. It was an interesting and challenging task, as the Magic School Bus is a unique blend of fantasy and education. Thank you for the fun game!
 ```

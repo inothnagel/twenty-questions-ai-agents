@@ -28,7 +28,7 @@ def main() -> None:
     guesser = Agent.load_from_yaml("guesser.yml")
     agents = [knower, guesser]
 
-    answer = input(f"What thing would you like {guesser.name} to guess?\n")
+    answer = input(f"What thing would you like {guesser.name} to guess?\n> ")
     knower.set_correct_answer(answer)
 
     messages = []
